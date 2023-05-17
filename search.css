@@ -1,0 +1,86 @@
+.indexbody {
+    margin: 0;
+   background-color: #ffffff;
+   width: max-content;
+
+}
+  
+.topnav {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    
+   
+    
+}
+  
+.topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #d5d5d5;
+    color: black;
+}   
+.name1{
+    position: absolute;
+    top: 300px;
+    left: 350px;
+    background-color: rgb(99, 217, 235);
+}
+.name1:hover{
+    box-shadow: 5px 10px 5px gray;
+}    
+
+.name2{
+    position: absolute;
+    right: 350px;
+    top: 300px;
+    background-color:#6c757d; 
+    
+    
+}
+.name2:hover{
+    box-shadow: 5px 10px 5px gray;
+}    
+
+.button{
+    background-color: #6c757d;
+    border-radius: 7px;
+    color: white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 500px;
+    left: 690px; 
+    
+    
+}
+.button:hover{
+    background-color: rgb(99, 217, 235);
+    color: black;
+    
+    box-shadow: 5px 10px 5px gray;
+    
+}
+/* body{
+    background-image: url(https://cdn-icons-png.flaticon.com/128/5571/5571575.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+} */
+.webname{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+

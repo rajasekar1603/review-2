@@ -1,0 +1,18 @@
+.img{
+    position: absolute;
+
+    background-size: cover;
+    top: 300px;
+    left: 700px;
+   
+}
+.text1{
+    position: absolute;
+    
+    background-size: cover;
+    top: 450px;
+    left: 580px;
+    font-weight: bolder; 
+    font-style: italic; 
+
+}
